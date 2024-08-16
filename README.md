@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [hridaygoswami.digital](hridaygoswami.digital)
+- 👨‍💻 All of my projects are available at [My Work](https://linktr.ee/hridaygoswami)
 
 - 💬 Ask me about **Data Science, Data Analytics, MERN Stack, Django Stack**
 
